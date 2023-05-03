@@ -1,11 +1,11 @@
 # MedicalWritingPortfolio
-Medical Writing Portfolio
-Table of Contents
+Medical Writing Portfolio<br>
+Table of Contents<br>
 
-Blog Post	
-Technical Paper	
-Marketing Email	
-White Paper	
-Copywriting - Brochure	
-Protocol	
-Lay Abstracts	
+Blog Post	<br>
+Technical Paper	<br>
+Marketing Email	<br>
+White Paper	<br>
+Copywriting - Brochure	<br>
+Protocol	<br>
+Lay Abstracts	<br>
